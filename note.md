@@ -43,10 +43,10 @@ follow the above link if you want your own Homepage, sth like
 and to know more about html, check http://www.w3schools.com/html/
 ##example index.html
 
-  <head>
-  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-  <title>LGCB</title>
-  </head>
+###  <head>
+###  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+###  <title>LGCB</title>
+###  </head>
 
 #path
 
