@@ -3,7 +3,7 @@
 http://happypeter.github.com/LGCB/book/toy_markdown.html
 
 #vim
-vim installation
+##vim installation
 
 sudo apt-get install vim # the hacker's Editor
 
@@ -12,8 +12,7 @@ sudo apt-get install vim # the hacker's Editor
 http://happypeter.org/happycasts/happyvim/
 
 #snipmate
-##
-check
+##check
 
 ~/.vim/snippets/c.snippets
 
@@ -22,9 +21,9 @@ check
 ctags hello.c
 vim hello.c
 
-##Ctr-]: jump to function definition
+Ctr-]: jump to function definition
 
-##Ctr-o: to go back
+Ctr-o: to go back
 #git
 ##git installation
 
@@ -44,10 +43,10 @@ follow the above link if you want your own Homepage, sth like
 and to know more about html, check http://www.w3schools.com/html/
 ##example index.html
 
-<head>
-<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<title>LGCB</title>
-</head>
+  <head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>LGCB</title>
+  </head>
 
 #path
 
